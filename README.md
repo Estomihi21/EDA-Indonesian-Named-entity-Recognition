@@ -5,8 +5,3 @@ Named Entity Recognition melibatkan pemrosesan teks dan mengidentifikasi kemuncu
 #**Tujuan**:
 Menghasilkan model Named Entity Recognition dengan tag entitas pada kata dalam dokumen teks Bahasa Indonesia. 
 Memperkaya pengetahuan bagi penulis maupun pembaca terkait Named Entity Recognition dengan POS-Tagging.
-
-**#Nama Anggota Kelompok**
-12S18020: Dita L. Sastri Sihombing
-12S18029: Estomihi Rascana Sirait
-12S18061: Angela F. Simamora
